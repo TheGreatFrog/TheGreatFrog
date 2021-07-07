@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheGreatFrog
+- 👀 I’m interested in User Interface Design & Animation
+- 🌱 I’m currently learning Motion Design
+- 💞️ I’m looking to collaborate on UI/UX projects
+- 📫 How to reach me: bjaskolski.com
